@@ -1,4 +1,4 @@
-# Translucent-SideBySide-theme-for-Windows-11-Start-Menu-Styler
+# Translucent SideBySide theme for Windows 11 Start Menu Styler
 
 This is a fusion of **TranslucentStartMenu** and **SideBySide** themes for Windows 11 Start Menu Styler. I’ve just merged and edited code from both themes.  
 **All credit goes to** [Undisputed00x](https://github.com/Undisputed00x) and [kaoshipaws](https://k4oshi.top/).
