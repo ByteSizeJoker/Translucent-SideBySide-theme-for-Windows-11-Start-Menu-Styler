@@ -5,6 +5,8 @@ This is a fusion of **TranslucentStartMenu** and **SideBySide** themes for Windo
 
 ![Screenshot](translucent-sidebyside-preview.png)
 
+![Screenshot](translucent-sidebyside-search-preview.png)
+
 ## Installation
 
 This theme must be installed manually.
